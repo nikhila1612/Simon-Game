@@ -17,9 +17,9 @@ Simon is a classic memory game where players must repeat a sequence of colors an
 5. If you make a mistake, the game will end and you can choose to restart.
 
 ## Screenshots
-![simon1](https://github.com/nikhila1612/Simon-Game/assets/84263617/d24190c8-70d3-4d87-8cdf-8e8f8f01a677)
+![simon1](https://github.com/nikhila1612/Simon-Game/assets/84263617/f9df8037-793b-4814-81f3-677cd1cc1309)
 ![simon2](https://github.com/nikhila1612/Simon-Game/assets/84263617/af1248eb-fddd-4c2d-9ed1-b311febc4b0e)
-![simon3](https://github.com/nikhila1612/Simon-Game/assets/84263617/fd69556f-bc7f-4c17-a58e-122195b58075)
+![simon3](https://github.com/nikhila1612/Simon-Game/assets/84263617/0498ccc7-4c66-4f2c-8590-a6a684f7ba92)
 
 ## Technologies Used
 - HTML5
